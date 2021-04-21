@@ -1,0 +1,6 @@
+{
+  "COUNTER_INCREMENT": "Counter Increment",
+  "COUNTER_DECREMENT": "Counter Decrement",
+  "COUNTER_SAGA_TITLE": "Counter Saga",
+  "COUNTER_TITLE": "Counter Redux"
+}
